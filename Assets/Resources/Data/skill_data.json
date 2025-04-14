@@ -1,0 +1,37 @@
+{
+  "ItemList": [
+    {
+      "type": 0,
+      "level": 1,
+      "coolTime": 1.0,
+      "baseMultiplier": 1.0,
+      "multiplierPerLevel": 0.1,
+      "maxLevel": 50,
+      "unlockCost": 0,
+      "initialUnlockCost": 1,
+      "levelUpCostMultiplier": 2
+    },
+    {
+      "type": 1,
+      "level": 0,
+      "coolTime": 15.0,
+      "baseMultiplier": 5.0,
+      "multiplierPerLevel": 0.5,
+      "maxLevel": 30,
+      "unlockCost": 10,
+      "initialUnlockCost": 3,
+      "levelUpCostMultiplier": 3
+    },
+    {
+      "type": 2,
+      "level": 0,
+      "coolTime": 0.0,
+      "baseMultiplier": 50.0,
+      "multiplierPerLevel": 2.0,
+      "maxLevel": 25,
+      "unlockCost": 15,
+      "initialUnlockCost": 4,
+      "levelUpCostMultiplier": 4
+    }
+  ]
+}
