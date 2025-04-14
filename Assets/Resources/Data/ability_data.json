@@ -1,0 +1,44 @@
+{
+  "ItemList": [
+    {
+      "type": 0,
+      "maxLevel": 100,
+      "baseValue": 50,
+      "increasePerLevel": 10,
+      "baseCost": 100,
+      "costPerLevel": 50
+    },
+    {
+      "type": 1,
+      "maxLevel": 100,
+      "baseValue": 500,
+      "increasePerLevel": 100,
+      "baseCost": 120,
+      "costPerLevel": 60
+    },
+    {
+      "type": 2,
+      "maxLevel": 50,
+      "baseValue": 1.0,
+      "increasePerLevel": 0.2,
+      "baseCost": 150,
+      "costPerLevel": 70
+    },
+    {
+      "type": 3,
+      "maxLevel": 30,
+      "baseValue": 5.0,
+      "increasePerLevel": 1.0,
+      "baseCost": 300,
+      "costPerLevel": 100
+    },
+    {
+      "type": 4,
+      "maxLevel": 50,
+      "baseValue": 50.0,
+      "increasePerLevel": 5.0,
+      "baseCost": 250,
+      "costPerLevel": 90
+    }
+  ]
+}

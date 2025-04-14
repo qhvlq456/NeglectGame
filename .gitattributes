@@ -1,0 +1,12 @@
+# 모든 파일에 대해 텍스트 파일로 취급
+* text=auto
+
+# 특정 파일 확장자에 대해 LF로 끝나도록 설정
+*.cs text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+
+# 한글 인코딩을 UTF-8로 강제
+*.txt text working-tree-encoding=UTF-8
